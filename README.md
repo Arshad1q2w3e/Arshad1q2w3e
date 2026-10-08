@@ -2,7 +2,7 @@
   <!-- Typing Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Arshad+Shaikh;Computer+Engineering+Student;Data+Analyst+%26+Machine+Learning+Engineer;SQL+%7C+PostgreSQL+%7C+Power+BI;DSA+%26+Full+Stack+Developer" alt="Typing SVG" />
 
-  <br/>
+  <br/><br/>
 
   <!-- Social Badges -->
   <a href="https://linkedin.com/in/your-profile" target="_blank">
